@@ -47,7 +47,7 @@ git remote (mostra o respositorio remoto selecionado)
 
 git remote -v (mostra repositório de origem)
 
-git revert <4 primeiros dígitos do hash do commit> (inverte as mudanças de um commit e gera um novo commit com o conteúdo invertido) 
+git revert "4 primeiros dígitos do hash do commit" (inverte as mudanças de um commit e gera um novo commit com o conteúdo invertido) 
 
 ## Autor
 
