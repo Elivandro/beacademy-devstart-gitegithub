@@ -38,7 +38,7 @@
 >|**`git branch -d "nome da branch"`** | *Deleta a branch*
 >|**`git stash`** | *Guarda as edições atuais*
 >|**`git stash list`** | *Lista as edições guardadas*
->|**`git stash –include-untracked`** | *Salva alterações sem commit*
+>|**`git stash --include-untracked`** | *Salva alterações sem commit*
 >|**`git merge "nome da branch"`** | *Mescla duas Branch's, selecionar a branch para onde deseja fazer o merge antes*
 >#
 >## Outros
