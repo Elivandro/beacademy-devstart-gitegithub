@@ -46,6 +46,7 @@
 >------------|----------
 >|**`git remote`** | *Mostra o repositório remoto selecionado*
 >|**`git remote -v`** | *Mostra repositório de origem*
+>|**`git remote set-url origin "new_url"`** | *Altera a origem do respositorio*
 >**`git revert "4 primeiros dígitos do hash do commit"`** | *reverte as mudanças de um commit e gera um novo commit*
 >
 >## Autor
